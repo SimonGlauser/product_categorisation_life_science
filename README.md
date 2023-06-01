@@ -19,6 +19,7 @@ The core objective of this Master's Thesis is to analyse the potential of automa
 *product categorisation, text analytics, machine learning, artificial intelligence, life-science*
 
 
+
 ```bash
 pip install -r requirements.txt
 ```
