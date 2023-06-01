@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1score,Runtime [s]
+LogisticRegression,0.963,0.964,0.963,0.961,969.0
+LinearSVC,0.974,0.974,0.974,0.973,178.0
+MultinomialNB,0.787,0.825,0.795,0.765,36.0
+RandomForestClassifier,0.973,0.972,0.973,0.972,12750.0
+GradientBoostingClassifier,0.953,0.955,0.953,0.949,32990.0

@@ -1,0 +1,9 @@
+/data/2022/
+/data/2023/
+/data_cleaning/data_xml/
+/data_cleaning/data_csv/
+/data_cleaning/data_clean/
+/data_cleaning/testfile.py
+/analytics/csv_combined.csv
+/analytics/LinearSVC.pkl
+/live_demonstration/sites/LinearSVC.pkl
