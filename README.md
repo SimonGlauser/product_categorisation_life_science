@@ -2,7 +2,7 @@
 
 # Automated categorisation for Products in the Life-Science Sector with Natural Language Processing
 
-###Lucerne University of Applied Sciences and Arts
+### Lucerne University of Applied Sciences and Arts
 ####Lucerne School of Business
 
 Author:\
